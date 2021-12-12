@@ -2,7 +2,7 @@
   "name": "meadowlark-travel-website",
   "version": "1.0.0",
   "description": "Meadowlark Travel website sample form Web Development with Node and Express",
-  "main": "meadowlark.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
